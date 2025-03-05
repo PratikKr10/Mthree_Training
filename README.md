@@ -35,6 +35,7 @@ Mthree_Training/
 ├── week 4/
 │   ├── Kubernetes_04-03-2025.md
 │   ├── Python_String_Manipulation_Functions_03-03-2025.md
+|   ├── k8s-master-app
 ```
 
 ---
@@ -59,6 +60,7 @@ Mthree_Training/
 ### **Week 4**
 - **Advanced Kubernetes Concepts**
 - **Python String Manipulation & Functions**
+- **k8s-master-app**
 
 ---
 
