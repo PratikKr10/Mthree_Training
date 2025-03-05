@@ -19,7 +19,7 @@ The project is **optimized for WSL2**, avoiding common issues like **host path m
 ---
 
 ## 📁 **Project Structure**
-
+```
 Mthree_Training/week4/
 ├── k8s-master-app/            # Main project directory
 │   ├── app/                   # Python Flask application
@@ -52,8 +52,7 @@ Mthree_Training/week4/
 │   ├── README.md               # General overview
 │   ├── kubernetes-cheatsheet.md # Kubernetes command reference
 │   ├── k8s_project_explained.md # Detailed documentation (this file)
-
-
+```
 ## 🏗️ **Step-by-Step Setup & Deployment**
 
 ### **1️⃣ Run the fixed-k8s.sh script**
