@@ -63,7 +63,7 @@ Mthree_Training/week4/
 │   │   ├── test-app.sh         # Tests application functionality
 │   ├── README.md               # General overview
 │   ├── kubernetes-cheatsheet.md # Kubernetes command reference
-│   ├── k8s_project_explained.md # Detailed documentation (this file)
+│   ├── k8s_project_explained.md # Detailed documentation 
 ```
 
 ## Quick Start
