@@ -32,28 +32,38 @@ This version differs from standard Kubernetes tutorials in several ways to accom
 ## Project Structure
 
 ```
-k8s-master-app/
-├── app/                   # Application code
-│   ├── app.py             # Flask application
-│   ├── Dockerfile         # Container definition
-│   └── requirements.txt   # Python dependencies
-├── k8s/                   # Kubernetes manifests
-│   ├── base/              # Core resources
-│   │   ├── deployment.yaml
-│   │   └── namespace.yaml
-│   ├── config/            # Configuration resources
-│   │   ├── configmap.yaml
-│   │   └── secret.yaml
-│   ├── monitoring/        # Monitoring resources
-│   │   └── hpa.yaml
-│   ├── networking/        # Networking resources
-│   │   └── service.yaml
-│   └── volumes/           # Storage resources
-│       └── volumes.yaml
-└── scripts/               # Helper scripts
-    ├── cleanup.sh         # Clean up all resources
-    ├── deploy.sh          # Deploy the application
-    └── test-app.sh        # Test the application
+Mthree_Training/week4/
+├── k8s-master-app/            # Main project directory
+│   ├── app/                   # Python Flask application
+│   │   ├── app.py             # Main Flask application (Logging Fix Included)
+│   │   ├── Dockerfile         # Containerization instructions
+│   │   ├── requirements.txt   # Required Python libraries
+│   ├── config/                # Sample configuration files
+│   │   ├── sample-config.txt
+│   ├── data/                  # Sample data for volume testing
+│   │   ├── hello.txt
+│   │   ├── info.txt
+│   ├── k8s/                   # Kubernetes configurations
+│   │   ├── base/              # Core resources
+│   │   │   ├── deployment.yaml
+│   │   │   ├── namespace.yaml
+│   │   ├── config/            # Configuration management
+│   │   │   ├── configmap.yaml
+│   │   │   ├── secret.yaml
+│   │   ├── monitoring/        # Monitoring and scaling configurations
+│   │   │   ├── hpa.yaml
+│   │   ├── networking/        # Service definitions
+│   │   │   ├── service.yaml
+│   │   ├── volumes/           # Volume configurations
+│   │   │   ├── volumes.yaml
+│   ├── logs/                   # Stores application logs
+│   ├── scripts/                # Deployment & Management Scripts
+│   │   ├── deploy.sh           # Deploys the application
+│   │   ├── cleanup.sh          # Cleans up the deployment
+│   │   ├── test-app.sh         # Tests application functionality
+│   ├── README.md               # General overview
+│   ├── kubernetes-cheatsheet.md # Kubernetes command reference
+│   ├── k8s_project_explained.md # Detailed documentation (this file)
 ```
 
 ## Quick Start
