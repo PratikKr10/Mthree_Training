@@ -37,6 +37,7 @@ Mthree_Training/
 │   ├── Python_String_Manipulation_Functions_03-03-2025.md
 |   ├── k8s-master-app
 │   ├── OOP 06-03-2025.md
+│   ├── python_oop_exceptions_file_operations.md
 ```
 
 ---
@@ -63,6 +64,7 @@ Mthree_Training/
 - **Python String Manipulation & Functions**
 - **k8s-master-app**
 - **oops**
+- **python oop, exceptions, file_operations**
 
 ---
 
