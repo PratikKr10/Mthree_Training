@@ -38,6 +38,8 @@ Mthree_Training/
 |   ├── k8s-master-app
 │   ├── OOP 06-03-2025.md
 │   ├── python_oop_exceptions_file_operations.md
+├── week 5/
+│   ├── sqlalchemy_numpy_pandas_setup.md
 ```
 
 ---
@@ -65,6 +67,8 @@ Mthree_Training/
 - **k8s-master-app**
 - **oops**
 - **python oop, exceptions, file_operations**
+### **Week 5**
+- **sqlalchemy, numpy, pandas and setup** 
 
 ---
 
