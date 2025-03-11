@@ -40,6 +40,7 @@ Mthree_Training/
 │   ├── python_oop_exceptions_file_operations.md
 ├── week 5/
 │   ├── sqlalchemy_numpy_pandas_setup.md
+│   ├── React_project_guide.md
 ```
 
 ---
@@ -68,7 +69,8 @@ Mthree_Training/
 - **oops**
 - **python oop, exceptions, file_operations**
 ### **Week 5**
-- **sqlalchemy, numpy, pandas and setup** 
+- **sqlalchemy, numpy, pandas and setup**
+- **React setup and React Router, state management, event handling, dynamic UI updates, form handling, list rendering, styling, and theme switching to build a functional React app**
 
 ---
 
