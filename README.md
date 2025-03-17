@@ -41,6 +41,8 @@ Mthree_Training/
 ├── week 5/
 │   ├── sqlalchemy_numpy_pandas_setup.md
 │   ├── React_project_guide.md
+│   ├── Angular_basic.md
+│   ├── python_dsa_notes_13-03-2025.md
 ```
 
 ---
@@ -68,9 +70,12 @@ Mthree_Training/
 - **k8s-master-app**
 - **oops**
 - **python oop, exceptions, file_operations**
-### **Week 5**
-- **sqlalchemy, numpy, pandas and setup**
-- **React setup and React Router, state management, event handling, dynamic UI updates, form handling, list rendering, styling, and theme switching to build a functional React app**
+
+### **Week 5**  
+- **SQLAlchemy, NumPy, Pandas setup**  
+- **React setup, state management, event handling, form handling, styling**  
+- **Angular setup, components, routing, SPA concepts**  
+- **Angular vs React, Linux commands, Stack & Tree in Python**
 
 ---
 
