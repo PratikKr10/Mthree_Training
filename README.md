@@ -43,6 +43,10 @@ Mthree_Training/
 │   ├── React_project_guide.md
 │   ├── Angular_basic.md
 │   ├── python_dsa_notes_13-03-2025.md
+├── week 6/
+│   ├── week6-day1-grafana-sre.md
+│   ├── week6-day2-grafana-dashboard-recovery.md
+│   ├── week6-day3-sre-monitoring-dashboards.md
 ```
 
 ---
@@ -76,6 +80,11 @@ Mthree_Training/
 - **React setup, state management, event handling, form handling, styling**  
 - **Angular setup, components, routing, SPA concepts**  
 - **Angular vs React, Linux commands, Stack & Tree in Python**
+
+### **Week 6**  
+- **Set up Grafana, Prometheus, and Loki on Minikube using Helm**  
+- **Exported and imported Grafana dashboards using JSON files**  
+- **Created Prometheus and Loki panels; explored core SRE concepts** 
 
 ---
 
